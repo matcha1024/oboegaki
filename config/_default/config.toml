@@ -1,6 +1,6 @@
-baseURL = "http://localhost"
+baseURL = "https://oboegaki.pages.dev"
 copyright = "No Copyright"
-title = "hugo-theme-gruvbox"
+title = "oboegaki"
 #paginate = 10
 enableRobotsTXT = true
 
