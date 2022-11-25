@@ -1,5 +1,5 @@
 baseURL = "http://localhost"
-copyright = "Copyright © 2021"
+copyright = "No Copyright"
 title = "hugo-theme-gruvbox"
 #paginate = 10
 enableRobotsTXT = true
